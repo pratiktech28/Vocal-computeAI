@@ -36,3 +36,22 @@
 ├── index.html             # ElevenLabs widget script entry
 ├── tailwind.config.ts     # Futuristic UI configuration
 └── package.json           # Project dependencies
+
+---
+
+## 🤝 Connect with Me
+
+
+
+<p align="left">
+<a href="https://linkedin.com/in/prateeksharma2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linkedin/default.svg" alt="Pratik" height="30" width="40" /></a>
+<a href="https://twitter.com/i_pratiksharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/twitter/default.svg" alt="Pratik" height="30" width="40" /></a>
+<a href="pratiktech28@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/gmail/default.svg" alt="Pratik" height="30" width="40" /></a>
+<a href="goursunakshi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/gmail/default.svg" alt="Pratik" height="30" width="40" /></a>
+</p>
+
+* **GitHub:** [@pratiktech28](https://github.com/pratiktech28)
+* **Project Link:** [VocalCompute AI Repo](https://github.com/pratiktech28/Vocal-computeAI)
+
+---
+*Developed by **Pratik and Sunakshi** - Making AI more Human.*
