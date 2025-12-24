@@ -43,14 +43,24 @@
 
 
 
-<p align="left">
-<a href="https://linkedin.com/in/prateeksharma2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linkedin/default.svg" alt="Pratik" height="30" width="40" /></a>
-<a href="https://twitter.com/i_pratiksharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/twitter/default.svg" alt="Pratik" height="30" width="40" /></a>
-<a href="pratiktech28@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/gmail/default.svg" alt="Pratik" height="30" width="40" /></a>
-<a href="goursunakshi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/gmail/default.svg" alt="Pratik" height="30" width="40" /></a>
-</p>
+## 🤝 Connect with Me
+Agar aapko is project se related koi sawal hai ya aap collaborate karna chahte hain, toh reach out karein!
 
-* **GitHub:** [@pratiktech28](https://github.com/pratiktech28)
+| Platform | Link |
+| :--- | :--- |
+| **📧 Email** | pratiktech28@gmail.com |
+| **📧 Email** | goursunakshi@gmail.com |
+| **📱 Mobile** | +91-8273723090 |
+| **🌐 GitHub** | https://github.com/pratiktech28 |
+| **📱 Mobile** | +91-9098494002 |
+| **🔗 LinkedIn** | https://linkedin.com/in/prateeksharma2807 |
+
+---
+
+### 🚀 How to Reach Out?
+- **Bug Reports:** GitHub issues 
+
+* **GitHub:** 
 * **Project Link:** [VocalCompute AI Repo](https://github.com/pratiktech28/Vocal-computeAI)
 
 ---
